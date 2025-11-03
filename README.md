@@ -1,1 +1,3 @@
-# FAKARNY-ToDo
+# fakarny_app
+
+A new Flutter project.
